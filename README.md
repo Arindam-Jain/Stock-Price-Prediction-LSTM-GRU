@@ -26,4 +26,10 @@ Dropout of 0.2 is added</br>
 Layer 3: Dense with output dimension - 1 (Output of the network) </br>
 Network is trained for 800 epochs with batch_size 20.</br>
 
+# Results
+# LSTM
+![Screenshot 2020-05-29 at 3 53 16 PM](https://user-images.githubusercontent.com/40122399/83249827-cfc9eb00-a1c4-11ea-89d7-e895b3ce1303.png)
+# GRU
+![Screenshot 2020-05-29 at 3 53 36 PM](https://user-images.githubusercontent.com/40122399/83249890-e6704200-a1c4-11ea-81e1-f97ab2514402.png)
+
 
